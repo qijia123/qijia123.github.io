@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Qijia Chen/ Homepage"
 title_separator          : "-"
 name                     : &name "Qijia Chen"
-description              : &description "PhD researcher in HCI"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Postdoctoral researcher in HCI; freshly graduated from the University of Helsinki"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://qijia123.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "file.jpeg"
   name             : "Qijia Chen"
-  bio              : "PhD researcher at University of Helsinki."
+  bio              : "Newly graduated PhD from the University of Helsinki, now a postdoctoral researcher."
   location         : "Earth"
   employer         : "Helsinki University"
   uri              : # URL
@@ -91,7 +91,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
