@@ -57,6 +57,36 @@
   }
 }
 
+/* Publication badges */
+.pub-badges {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 0.4em;
+}
+
+.pub-badge {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.pub-badge--venue {
+  color: #fff;
+  background-color: #2a5a8a;
+}
+
+.pub-badge--award {
+  color: #5a4000;
+  background-color: #fef3cd;
+  border: 1px solid #f0d060;
+}
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;

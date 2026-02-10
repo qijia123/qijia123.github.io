@@ -12,14 +12,14 @@ redirect_from:
 In 2025, I was an academic intern at **Abraham Mhaidli's Alpaca group** at the **Max Planck Institute**. I obtained my Bachelor's degree from Chongqing University and Master's degree from the Hong Kong Polytechnic University. My work combines qualitative and quantitative methods, design research, and prototype development to create inclusive interactive media.  
 
 <div style="text-align: center; text-indent: 2em;">
-I'm actively seeking <strong>collaboration opportunities</strong>, especially in <strong>VR</strong>, <strong>collaborative virtual environments</strong>, <strong>UI agents</strong>, <strong>generative AI</strong>, or other related research areas.  
-Feel free to <strong>drop me an email</strong>!
+I'm actively seeking <strong>collaboration opportunities</strong>, especially in <strong>VR</strong>, <strong>collaborative virtual environments</strong>, <strong>accessibility</strong>, <strong>BLV</strong>, <strong>LLM</strong>, or other related research areas.
+Feel free to <strong><a href="mailto:qijia.chen@helsinki.fi">drop me an email</a></strong>!
 </div>
 
 ## Research Interests
 
-- Human-Computer Interaction, Social and Collaborative VR
-- Trust, governance, and moderation in online immersive spaces
+- Social and Collaborative VR
+- Accessibility and Blind/Low-Vision (BLV) user experience
 - LLM-based prototype design, development, and user experience.
 
 ## Selected Publications
