@@ -26,32 +26,39 @@ I'm actively seeking <strong>collaboration opportunities</strong>, especially in
 <div style="margin-bottom: 1.5em;">
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CHI 2026</span><br>
-    Social, Spatial, and Self-Presence as Predictors of Basic Psychological Need Satisfaction in Social VR. <strong>Chen, Q.</strong>, Bellucci, A. &amp; Jacucci, G.
+    Social, Spatial, and Self-Presence as Predictors of Basic Psychological Need Satisfaction in Social VR.<br>
+    <strong>Chen, Qijia</strong>; Bellucci, Andrea; Jacucci, Giulio.
   </div>
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CHI 2026</span><br>
-    Usage Matters: The Role of Frequency, Duration, and Experience in Presence Formation in Social Virtual Reality. <strong>Chen, Q.</strong>, Bellucci, A. &amp; Jacucci, G.
+    Usage Matters: The Role of Frequency, Duration, and Experience in Presence Formation in Social Virtual Reality.<br>
+    <strong>Chen, Qijia</strong>; Bellucci, Andrea; Jacucci, Giulio.
   </div>
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CHI 2025</span>
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#5a4000;background:#fef3cd;border:1px solid #f0d060;">🏅 Best Paper Honorable Mention</span><br>
-    Understanding "Mutes" in Social Virtual Reality. <strong>Chen, Qijia</strong>; Bellucci, Andrea; Cai, Jie; Nelimarkka, Matti; Jacucci, Giulio.
+    Understanding "Mutes" in Social Virtual Reality.<br>
+    <strong>Chen, Qijia</strong>; Bellucci, Andrea; Cai, Jie; Nelimarkka, Matti; Jacucci, Giulio.
   </div>
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CHI 2025</span><br>
-    Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality. <strong>Chen, Qijia</strong>; Wu, Qunfang; Jacucci, Giulio.
+    Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality.<br>
+    <strong>Chen, Qijia</strong>; Wu, Qunfang; Jacucci, Giulio.
   </div>
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CSCW 2025</span><br>
-    Investigating the Use and Perception of Blocking Feature in Social Virtual Reality Space. <strong>Chen, Qijia</strong>; Mousavi, S. Mahed; Riccardi, Giuseppe; Jacucci, Giulio.
+    Investigating the Use and Perception of Blocking Feature in Social Virtual Reality Space.<br>
+    <strong>Chen, Qijia</strong>; Mousavi, S. Mahed; Riccardi, Giuseppe; Jacucci, Giulio.
   </div>
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CHI 2024</span><br>
-    "I'd Rather Drink in VRChat": Understanding Drinking in Social Virtual Reality. <strong>Chen, Qijia</strong>; Bellucci, Andrea; Jacucci, Giulio.
+    "I'd Rather Drink in VRChat": Understanding Drinking in Social Virtual Reality.<br>
+    <strong>Chen, Qijia</strong>; Bellucci, Andrea; Jacucci, Giulio.
   </div>
   <div style="margin-bottom: 1.2em;">
     <span style="display:inline-block;padding:4px 12px;border-radius:4px;font-size:0.75em;font-weight:700;color:#fff;background:#2a5a8a;letter-spacing:0.02em;">CSCW 2024</span><br>
-    Understanding Phantom Tactile Sensation on Social Virtual Reality Platforms. <strong>Chen, Qijia</strong>; Spape, Michiel; Jacucci, Giulio.
+    Understanding Phantom Tactile Sensation on Social Virtual Reality Platforms.<br>
+    <strong>Chen, Qijia</strong>; Spape, Michiel; Jacucci, Giulio.
   </div>
 </div>
 
@@ -61,4 +68,4 @@ See the [full publications list](https://scholar.google.com/citations?view_op=li
 ## Teaching & Service
 
 - Teaching Assistant, Seminar on Advanced Topics in Human Computer Interaction (University of Helsinki, Fall 2023).
-- Regular Reviewer for CHI, CSCW, DIS, NordiCHI, Frontiers in Virtual Reality, IEEE VR, TOCHI, and HICSS.
+- Regular Reviewer for CHI, CSCW, DIS, NordiCHI, Frontiers in Virtual Reality, IEEE VR, TOCHI, IJHCI, and HICSS.
