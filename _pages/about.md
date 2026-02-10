@@ -24,11 +24,11 @@ Feel free to <strong><a href="mailto:qijia.chen@helsinki.fi">drop me an email</a
 
 ## Selected Publications
 
-- Understanding "Mutes" in Social Virtual Reality. Chen, Qijia; Bellucci, Andrea; Cai, Jie; Nelimarkka, Matti; Jacucci, Giulio. *CHI '25.* Best Paper Honorable Mention. 
-- Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality. Chen, Qijia; Wu, Qunfang; Jacucci, Giulio. *CHI '25.*
-- Investigating the Use and Perception of Blocking Feature in Social Virtual Reality Space. Chen, Qijia ; Mousavi, S. Mahed; Riccardi, Giuseppe ; Jacucci, Giulio. *CSCW 2025.*
-- "I'd Rather Drink in VRChat": Understanding Drinking in Social Virtual Reality. Chen, Qijia; Bellucci, Andrea; Jacucci, Giulio. *CHI '24.*
-- Understanding Phantom Tactile Sensation on Social Virtual Reality Platforms. Chen, Qijia; Spape, Michiel; Jacucci, Giulio. *CSCW 2024.*
+- <span class="pub-badge pub-badge--venue">CHI 2025</span> <span class="pub-badge pub-badge--award">🏅 Best Paper Honorable Mention</span><br>Understanding "Mutes" in Social Virtual Reality. Chen, Qijia; Bellucci, Andrea; Cai, Jie; Nelimarkka, Matti; Jacucci, Giulio.
+- <span class="pub-badge pub-badge--venue">CHI 2025</span><br>Democratic Moderation: Exploring the Use and Perception of Votekicking in Social Virtual Reality. Chen, Qijia; Wu, Qunfang; Jacucci, Giulio.
+- <span class="pub-badge pub-badge--venue">CSCW 2025</span><br>Investigating the Use and Perception of Blocking Feature in Social Virtual Reality Space. Chen, Qijia; Mousavi, S. Mahed; Riccardi, Giuseppe; Jacucci, Giulio.
+- <span class="pub-badge pub-badge--venue">CHI 2024</span><br>"I'd Rather Drink in VRChat": Understanding Drinking in Social Virtual Reality. Chen, Qijia; Bellucci, Andrea; Jacucci, Giulio.
+- <span class="pub-badge pub-badge--venue">CSCW 2024</span><br>Understanding Phantom Tactile Sensation on Social Virtual Reality Platforms. Chen, Qijia; Spape, Michiel; Jacucci, Giulio.
 
 See the [full publications list](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=FYP1fmQAAAAJ&sortby=pubdate) for all papers.
 

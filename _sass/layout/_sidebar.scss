@@ -91,7 +91,7 @@
     width: 100%;
     max-width: 200px;
     height: auto;
-    border-radius: 0 !important;
+    border-radius: 12px !important;
     object-fit: contain;
 
     @include breakpoint($large) {
