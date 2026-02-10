@@ -61,10 +61,8 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 0;
     font-weight: 700;
     font-size: 1.4em;
-    flex-grow: 1;
-    text-align: center;
   }
 }
