@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** I'm **Qijia Chen**, a postdoctoral researcher at the **University of Helsinki**, where I also completed my PhD. I'm fortunate to be supervised by **Giulio Jacucci**, and I continue to collaborate closely with **Andrea Bellucci** as my secondary supervisor.  
+Welcome! I'm Qijia Chen, a postdoctoral researcher at the University of Helsinki, where I also completed my PhD. I'm fortunate to be supervised by Giulio Jacucci, and I continue to collaborate closely with Andrea Bellucci as my secondary supervisor.
 
-In 2025, I was an academic intern at **Abraham Mhaidli's Alpaca group** at the **Max Planck Institute**. I obtained my Bachelor's degree from Chongqing University and Master's degree from the Hong Kong Polytechnic University. My work combines qualitative and quantitative methods, design research, and prototype development to create inclusive interactive media.  
+In 2025, I was an academic intern at Abraham Mhaidli's Alpaca group at the Max Planck Institute. I obtained my Bachelor's degree from Chongqing University and Master's degree from the Hong Kong Polytechnic University. My work combines qualitative and quantitative methods, design research, and prototype development to create inclusive interactive media.  
 
 <p style="color:#2a5a8a; font-family:'Dengxian','Microsoft YaHei',sans-serif; text-align:center;">
 I'm actively seeking <strong>collaboration opportunities</strong>, especially in <strong>VR</strong>, <strong>collaborative virtual environments</strong>, <strong>accessibility</strong>, <strong>BLV</strong>, <strong>LLM</strong>, or other related research areas. Feel free to <strong><a href="mailto:qijia.chen@helsinki.fi" style="color:#2563eb; text-decoration:underline;">drop me an email</a></strong>!
