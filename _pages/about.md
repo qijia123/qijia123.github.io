@@ -23,8 +23,19 @@ I'm actively seeking <strong>collaboration opportunities</strong>, especially in
 
 ## Awards & Honors
 
-- Researcher of the Year 2025, Department of Computer Science, University of Helsinki.
-- Best Paper Honorable Mention, ACM CHI 2025, for "Understanding \"Mutes\" in Social Virtual Reality."
+<div style="margin-bottom: 1.2em;">
+  <div class="pub-badges">
+    <span class="pub-badge pub-badge--award">🏆 Researcher of the Year 2025</span>
+  </div>
+  Department of Computer Science, University of Helsinki.
+</div>
+
+<div style="margin-bottom: 1.2em;">
+  <div class="pub-badges">
+    <span class="pub-badge pub-badge--award">🏅 Best Paper Honorable Mention</span>
+  </div>
+  ACM CHI Conference on Human Factors in Computing Systems 2025.
+</div>
 
 ## Teaching & Service
 
