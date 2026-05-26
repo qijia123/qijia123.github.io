@@ -83,13 +83,13 @@
 .author__avatar {
   display: block;
   width: 100%;
-  max-width: 300px;
-  margin: 0 auto;
+  max-width: 240px;
+  margin: 0 auto 1.5em;
 
   img {
     display: block;
     width: 100%;
-    max-width: 280px;
+    max-width: 220px;
     height: auto;
     border-radius: 12px !important;
     object-fit: contain;
