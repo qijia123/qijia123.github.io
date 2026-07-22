@@ -28,16 +28,12 @@ I'm actively seeking <strong>collaboration opportunities</strong>. Feel free to 
 ## Awards & Honors
 
 <div style="margin-bottom: 0.55em;">
-  <div class="pub-badges">
-    <span class="pub-badge pub-badge--award">🏆 Researcher of the Year 2025</span>
-  </div>
+  <strong>🏆 Researcher of the Year 2025</strong>
   Department of Computer Science, University of Helsinki.
 </div>
 
 <div>
-  <div class="pub-badges">
-    <span class="pub-badge pub-badge--award">🏅 Best Paper Honorable Mention</span>
-  </div>
+  <strong>🏅 Best Paper Honorable Mention</strong>
   ACM CHI Conference on Human Factors in Computing Systems 2025.
 </div>
 
