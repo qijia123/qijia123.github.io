@@ -31,7 +31,7 @@ author:
   incoming_employer: "HKUST (GZ)"
   current_title    : "Postdoctoral Researcher"
   current_employer : "University of Helsinki"
-  location         : "Earth"
+  location         :
   employer         : "Helsinki University"
   uri              : # URL
   email            : "qijia.chen@helsinki.fi" 
