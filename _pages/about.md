@@ -44,4 +44,4 @@ I'm actively seeking <strong>collaboration opportunities</strong>. Feel free to 
 ## Teaching & Service
 
 - Teaching Assistant, Seminar on Advanced Topics in Human Computer Interaction (University of Helsinki).
-- Regular Reviewer for CHI, CSCW, DIS, NordiCHI, Frontiers in Virtual Reality, IEEE VR, TOCHI, IJHCI, and HICSS.
+- Regular Reviewer for CHI, CSCW, DIS, NordiCHI, Frontiers in Virtual Reality, Virtual Reality, IEEE VR, TOCHI, IJHCI, and HICSS.
