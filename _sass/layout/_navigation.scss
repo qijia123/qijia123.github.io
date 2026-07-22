@@ -235,8 +235,11 @@
 
     #theme-toggle {
       position: absolute;
+      top: 50%;
       right: auto;
-      left: calc(50% + 80px);
+      left: 100%;
+      margin-left: 0.6rem;
+      transform: translateY(-50%);
 
       a {
         width: 25px;
@@ -244,6 +247,10 @@
         justify-content: center;
         cursor: pointer;
       }
+    }
+
+    .masthead__title {
+      position: relative;
     }
 
     a {
