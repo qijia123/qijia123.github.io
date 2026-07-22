@@ -15,6 +15,21 @@
   </div>
 
   <div class="author__content">
+    {% if author.incoming_title %}
+      <p class="author__bio">
+        {{ author.incoming_title }}<br>
+        {% if author.incoming_unit %}{{ author.incoming_unit }}<br>{% endif %}
+        {% if author.incoming_employer %}{{ author.incoming_employer }}{% endif %}
+        {% if author.current_title %}
+          <span class="author__current-role">
+            {{ author.current_title }}<br>
+            {% if author.current_employer %}{{ author.current_employer }}{% endif %}
+          </span>
+        {% endif %}
+      </p>
+    {% elsif author.bio %}
+      <p class="author__bio" itemprop="description">{{ author.bio }}</p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">

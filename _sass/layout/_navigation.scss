@@ -177,6 +177,17 @@
   min-width: 250px;
   background: var(--global-bg-color);
 
+  .masthead__welcome {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 1;
+    margin: 0;
+    padding: 0.5rem 0;
+    font-weight: 600;
+    transform: translateY(-50%);
+  }
+
   a {
     display: block;
     margin: 0 1rem;
