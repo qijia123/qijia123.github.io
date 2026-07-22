@@ -107,6 +107,7 @@
   padding-left: 0;
   padding-right: 0;
   line-height: 1.2;
+  text-align: left;
 }
 
 .author__name {
@@ -145,6 +146,11 @@
     margin-top: 10px;
     margin-bottom: 20px;
   }
+}
+
+.author__current-role {
+  display: block;
+  margin-top: 0.8em;
 }
 
 .author__urls-wrapper {
