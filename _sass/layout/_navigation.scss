@@ -234,12 +234,9 @@
     }
 
     #theme-toggle {
-      position: absolute;
-      top: 50%;
-      right: auto;
-      left: 100%;
+      position: static;
       margin-left: 0.6rem;
-      transform: translateY(-50%);
+      transform: none;
 
       a {
         width: 25px;
@@ -250,7 +247,8 @@
     }
 
     .masthead__title {
-      position: relative;
+      display: flex;
+      align-items: center;
     }
 
     a {
