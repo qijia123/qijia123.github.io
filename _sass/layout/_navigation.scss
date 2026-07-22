@@ -234,9 +234,11 @@
     }
 
     #theme-toggle {
-      position: static;
-      margin-left: 10rem;
-      transform: none;
+      position: absolute;
+      top: 50%;
+      left: calc(50% + 10rem);
+      margin: 0;
+      transform: translateY(-50%);
 
       a {
         width: 25px;
@@ -244,11 +246,6 @@
         justify-content: center;
         cursor: pointer;
       }
-    }
-
-    .masthead__title {
-      display: flex;
-      align-items: center;
     }
 
     a {
