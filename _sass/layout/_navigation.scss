@@ -233,21 +233,6 @@
       }
     }
 
-    #theme-toggle {
-      position: absolute;
-      top: 50%;
-      left: calc(50% + 15rem);
-      margin: 0;
-      transform: translateY(-50%);
-
-      a {
-        width: 25px;
-        display: flex;
-        justify-content: center;
-        cursor: pointer;
-      }
-    }
-
     a {
       position: relative;
 
